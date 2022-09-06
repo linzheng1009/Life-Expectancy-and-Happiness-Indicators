@@ -1,6 +1,0 @@
-ML method,mean_absolute_error,mean_squared_error,r2_score
-SVM,3.33,20.14,0.63
-KNN Regressor,1.56,6.31,0.89
-MLR,2.53,12.46,0.76
-MLP,2.91,14.47,0.74
-Random Forest,1.56,5.51,0.9
